@@ -1,6 +1,7 @@
 // const base64 = require('base-64');
 
 // const message = `aHROcDovL3JIY3J1aXQtaWZILnRIcnJhZ29uZ3JvdXAuY29tLw==`;
+//To break the string without concatenation we would use back ticks instead of single quotes. 
 
 // const decodeMesage = msg => {
 //   return base64.decode(message);
